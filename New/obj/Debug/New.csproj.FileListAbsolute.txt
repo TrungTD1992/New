@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\New\New\bin\Debug\New.exe.config
+C:\Users\Admin\Desktop\New\New\bin\Debug\New.exe
+C:\Users\Admin\Desktop\New\New\bin\Debug\New.pdb
+C:\Users\Admin\Desktop\New\New\obj\Debug\New.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New\New\obj\Debug\New.exe
+C:\Users\Admin\Desktop\New\New\obj\Debug\New.pdb
